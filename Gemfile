@@ -43,3 +43,6 @@ group :development, :test do
   gem 'spring'
 end
 
+
+# Use PostgreSQL as the database for Active Record
+gem 'pg'
